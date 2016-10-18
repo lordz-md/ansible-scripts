@@ -1,2 +1,6 @@
 ---
 # tasks file for ansible-update
+- apt: 
+   update_cache=yes 
+- apt:   
+   upgrade=dist
