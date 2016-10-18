@@ -1,7 +1,7 @@
 Ansible Debian Updates
 =========
 
-This role does the apt update and apt upgrade
+This role does the apt-get update and apt-get upgrade
 
 Requirements
 ------------
